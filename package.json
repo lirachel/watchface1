@@ -17,6 +17,18 @@
         "resources": {
             "media": [
                 {
+                    "file": "fonts/minimla.otf",
+                    "name": "MINIMAL_18",
+                    "targetPlatforms": null,
+                    "type": "font"
+                },
+                {
+                    "file": "fonts/minimla.otf",
+                    "name": "MINIMAL_BOLD_56",
+                    "targetPlatforms": null,
+                    "type": "font"
+                },
+                {
                     "file": "images/asl_resized_mono.png",
                     "name": "SPARK_ICON",
                     "type": "png"
