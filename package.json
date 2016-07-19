@@ -27,21 +27,6 @@
                     "name": "MINIMAL_BOLD_56",
                     "targetPlatforms": null,
                     "type": "font"
-                },
-                {
-                    "file": "images/asl_resized_mono.png",
-                    "name": "SPARK_ICON",
-                    "type": "png"
-                },
-                {
-                    "file": "fonts/8-BIT WONDER.TTF",
-                    "name": "ATE_BIT_14",
-                    "type": "font"
-                },
-                {
-                    "file": "fonts/8-BIT WONDER.TTF",
-                    "name": "ATE_BIT_24",
-                    "type": "font"
                 }
             ]
         },

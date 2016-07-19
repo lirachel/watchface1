@@ -59,7 +59,7 @@ static void main_window_load(Window *window) {
   layer_add_child(window_get_root_layer(window), bitmap_layer_get_layer(s_background_layer));
   
   // Create time TextLayer
-  s_time_font = fonts_load_custom_font(resource_get_handle(RESOURCE_ID_MINIMAL_BOLD_56));
+  //s_time_font = fonts_load_custom_font(resource_get_handle(RESOURCE_ID_MINIMAL_BOLD_56));
 
   //time layer
   s_time_layer = text_layer_create(GRect(0, 50, 144, 180));
