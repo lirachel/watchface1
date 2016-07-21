@@ -1,13 +1,13 @@
 {
-    "author": "scottybrackett@gmail.com",
+    "author": "rachel.li.325@gmail.com",
     "dependencies": {},
     "keywords": [],
-    "name": "time_weather",
+    "name": "watchface-1",
     "pebble": {
         "capabilities": [
             "location"
         ],
-        "displayName": "TIME_WEATHER",
+        "displayName": "watchface 1",
         "enableMultiJS": false,
         "messageKeys": {
             "KEY_CONDITIONS": 1,
@@ -15,20 +15,7 @@
         },
         "projectType": "native",
         "resources": {
-            "media": [
-                {
-                    "file": "fonts/minimla.otf",
-                    "name": "MINIMAL_18",
-                    "targetPlatforms": null,
-                    "type": "font"
-                },
-                {
-                    "file": "fonts/minimla.otf",
-                    "name": "MINIMAL_BOLD_56",
-                    "targetPlatforms": null,
-                    "type": "font"
-                }
-            ]
+            "media": []
         },
         "sdkVersion": "3",
         "targetPlatforms": [
